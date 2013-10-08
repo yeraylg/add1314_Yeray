@@ -1,0 +1,115 @@
+<chapter>
+	<title>A1:Acceso remoto</title>
+	<para></para>
+	
+	<section>
+		<title>Escritorio remoto con VNC</title>
+		
+	<figure>
+		<title>Instalacion y configuracion de VNC</title>
+        <mediaobject>
+			<imageobject>
+				<imagedata scale="40" fileref="../img/1.png" format="PNG"/>
+            </imageobject>
+            <textobject>
+				<phrase>Instalacion de vnc en windows server</phrase>
+            </textobject>
+            
+        </mediaobject>
+     </figure> 
+     <figure>
+		<title>Instalacion y configuracion de VNC</title>
+        <mediaobject>
+			<imageobject>
+				<imagedata scale="50" fileref="../img/1img.png" format="PNG"/>
+            </imageobject>
+            <textobject>
+				<phrase>configuracion</phrase>
+            </textobject>
+        
+        </mediaobject>
+     </figure>
+
+   </section>
+     <section>
+		 <title>Escritorio Remoto con VNC</title>
+		 <figure>
+		<title>Acceder a Windows - desde Windows</title>
+        <mediaobject>
+			<imageobject>
+				<imagedata scale="40" fileref="../img/2img.png" format="PNG"/>
+            </imageobject>
+            <textobject>
+				<phrase>Acceder a Windows - desde Windows</phrase>
+            </textobject>
+            
+        </mediaobject>
+     </figure>
+     <figure>
+		<title>Acceder a Windows - desde Linux</title>
+        <mediaobject>
+			<imageobject>
+				<imagedata scale="40" fileref="../img/4img.png" format="PNG"/>
+            </imageobject>
+            <textobject>
+				<phrase>Acceder a Windows - desde Linux</phrase>
+            </textobject>
+           
+        </mediaobject>
+     </figure>
+     <figure>
+		<title>Acceder a Linux - desde Linux.</title>
+        <mediaobject>
+			<imageobject>
+				<imagedata scale="40" fileref="../img/3img-linux-a-linux.png" format="PNG"/>
+            </imageobject>
+            <textobject>
+				<phrase>Acceder a Linux - desde Linux.</phrase>
+            </textobject>
+            
+        </mediaobject>
+     </figure>
+     <figure>
+		<title>Acceder a Linux - desde Windows</title>
+        <mediaobject>
+			<imageobject>
+				<imagedata scale="40" fileref="../img/img2-linux-windows.png" format="PNG"/>
+            </imageobject>
+            <textobject>
+				<phrase>Acceder a Linux - desde Windows</phrase>
+            </textobject>
+            
+        </mediaobject>
+     </figure>
+	</section>
+    <section>
+		<title>Escritorio Remoto con RDP</title>
+	
+
+	<figure>
+		<title>Acceder a Windows Server 2008 desde Windows7</title>
+        <mediaobject>
+			<imageobject>
+				<imagedata scale="40" fileref="../img/4imgwindowsawindowsestritorio.png" format="PNG"/>
+            </imageobject>
+            <textobject>
+				<phrase>IAcceder a Windows Server 2008 desde Windows7</phrase>
+            </textobject>
+            
+        </mediaobject>
+     </figure> 
+     <figure>
+		<title>Acceder a Windows Server 2008 desde Linux</title>
+        <mediaobject>
+			<imageobject>
+				<imagedata scale="40" fileref="../img/5acceso.remoto.linux.windowserver.png" format="PNG"/>
+            </imageobject>
+            <textobject>
+				<phrase>Acceder a Windows Server 2008 desde Linux</phrase>
+            </textobject>
+            
+        </mediaobject>
+     </figure>
+</section>
+</chapter>
+	
