@@ -7,15 +7,15 @@ Actividades
    </title>
    <author>
 		<personname>
-			<firstname>yeray</firstname>
-			<surname>Lopez gonzales</surname>
+			<firstname>Yeray</firstname>
+			<surname>López Gonzáles</surname>
 		</personname>
 		
    </author>
    <author>
    <personname>
 			<firstname>Sandra</firstname>
-			<surname></surname>
+			<surname>García Pérez</surname>
 	</personname>
 	 </author>
 	<pubdate><?dbtimestamp?></pubdate>
