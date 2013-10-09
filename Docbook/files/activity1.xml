@@ -49,7 +49,7 @@
 		<title>Acceder a Windows - desde Linux</title>
         <mediaobject>
 			<imageobject>
-				<imagedata scale="40" fileref="../img/4img.png" format="PNG"/>
+				<imagedata scale="25" fileref="../img/4img-windows-linux.png" format="PNG"/>
             </imageobject>
             <textobject>
 				<phrase>Acceder a Windows - desde Linux</phrase>
@@ -61,7 +61,7 @@
 		<title>Acceder a Linux - desde Linux.</title>
         <mediaobject>
 			<imageobject>
-				<imagedata scale="40" fileref="../img/3img-linux-a-linux.png" format="PNG"/>
+				<imagedata scale="35" fileref="../img/3img-linux-a-linux.png" format="PNG"/>
             </imageobject>
             <textobject>
 				<phrase>Acceder a Linux - desde Linux.</phrase>
@@ -113,8 +113,8 @@
 </section>
 <section>
 <title>Remote App</title>
-<figure>
-		<title>Creacion de la aplicacion remota</title>
+	<figure>
+		<title>Creación de una la aplicación remota</title>
         <mediaobject>
 			<imageobject>
 				<imagedata scale="40" fileref="../img/remoteapp1.png" format="PNG"/>
@@ -125,10 +125,11 @@
             
         </mediaobject>
      </figure>
-     <title>lista de aplicaciones remotas</title>
+    <figure>
+     <title>Lista de aplicaciones remotas</title>
         <mediaobject>
 			<imageobject>
-				<imagedata scale="40" fileref="../img/remoteapp.png" format="PNG"/>
+				<imagedata scale="40" fileref="../img/remoteapp2.png" format="PNG"/>
             </imageobject>
             <textobject>
 				<phrase></phrase>
@@ -136,10 +137,11 @@
             
         </mediaobject>
      </figure>
-     <title>Creacion de el fichero rdp</title>
+     <figure>
+     <title>Creación de el fichero RDP</title>
         <mediaobject>
 			<imageobject>
-				<imagedata scale="40" fileref="../img/remoteapp.png" format="PNG"/>
+				<imagedata scale="40" fileref="../img/remoteapp3.png" format="PNG"/>
             </imageobject>
             <textobject>
 				<phrase></phrase>
@@ -147,10 +149,11 @@
             
         </mediaobject>
      </figure>
-     <title>Iniciar secion para acceder a la aplicacion remota</title>
+     <figure>
+     <title>Iniciar sección para acceder a la aplicación remota</title>
         <mediaobject>
 			<imageobject>
-				<imagedata scale="40" fileref="../img/remoteapp.png" format="PNG"/>
+				<imagedata scale="40" fileref="../img/remoteapp4.png" format="PNG"/>
             </imageobject>
             <textobject>
 				<phrase></phrase>
@@ -162,7 +165,7 @@
 </section>
 <section>
 <title>Problemas encontrados</title>
-<para>los principales problemas que hemos encontrados son al iniciar secion el el cliente que no reconosia las claves introducidas</para>
+<para>Los principales problemas que hemos encontrados son al iniciar sección el el cliente que no reconocía las claves introducidas</para>
 </section>
 </chapter>
 	
