@@ -111,5 +111,58 @@
         </mediaobject>
      </figure>
 </section>
+<section>
+<title>Remote App</title>
+<figure>
+		<title>Creacion de la aplicacion remota</title>
+        <mediaobject>
+			<imageobject>
+				<imagedata scale="40" fileref="../img/remoteapp1.png" format="PNG"/>
+            </imageobject>
+            <textobject>
+				<phrase></phrase>
+            </textobject>
+            
+        </mediaobject>
+     </figure>
+     <title>lista de aplicaciones remotas</title>
+        <mediaobject>
+			<imageobject>
+				<imagedata scale="40" fileref="../img/remoteapp.png" format="PNG"/>
+            </imageobject>
+            <textobject>
+				<phrase></phrase>
+            </textobject>
+            
+        </mediaobject>
+     </figure>
+     <title>Creacion de el fichero rdp</title>
+        <mediaobject>
+			<imageobject>
+				<imagedata scale="40" fileref="../img/remoteapp.png" format="PNG"/>
+            </imageobject>
+            <textobject>
+				<phrase></phrase>
+            </textobject>
+            
+        </mediaobject>
+     </figure>
+     <title>Iniciar secion para acceder a la aplicacion remota</title>
+        <mediaobject>
+			<imageobject>
+				<imagedata scale="40" fileref="../img/remoteapp.png" format="PNG"/>
+            </imageobject>
+            <textobject>
+				<phrase></phrase>
+            </textobject>
+            
+        </mediaobject>
+     </figure>
+
+</section>
+<section>
+<title>Problemas encontrados</title>
+<para>los principales problemas que hemos encontrados son al iniciar secion el el cliente que no reconosia las claves introducidas</para>
+</section>
 </chapter>
 	
