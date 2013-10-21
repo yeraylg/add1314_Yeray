@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<book xmlns="http://docbook.org/ns/docbook" xmlns:xi="http://www.w3.org/2001/XInclude" version="5.0" xml:lang="es">
+	
+<info>
+   <title>
+Actividades
+   </title>
+   <author>
+		<personname>
+			<firstname>yeray</firstname>
+			<surname>Lopez gonzales</surname>
+		</personname>
+		
+   </author>
+	<pubdate><?dbtimestamp?></pubdate>
+</info>
+
+
+<xi:include href="files/activity1.xml" />
+
+</book>
+

@@ -1,0 +1,130 @@
+<chapter>
+	<title>Clientes ligeros con LTSP</title>
+	
+	<section>
+		<title>Clientes ligeros con LTSP</title>
+		<para>Cliente ligero es un software  que utiliza los recursos de 
+		otro equipo para hacer la mayor parte de su tarea.Un cliente ligero tiene que formar parte de una red y ejecutar el software de cliente, mientras que el servidor de la red hace el trabajo 
+		real ya que el cliente ligero no es capaz de realizar muchas funciones por sí solo. Un equipo de cliente ligero puede 
+		ser una máquina diseñada sólo para uso en línea, enviar y recibir correo electrónico y navegar por la red y también puede 
+		ser parte de una red más amplia, de una empresa o una escuela.
+		El equipo de cliente ligero contiene la información necesaria para su puesta en marcha y la conexión a un servidor de 
+		red más potente, mientras que el equipo servidor proporciona el resto de la potencia de computación. El servidor ligero puede que ni siquiera tenga un 
+		disco duro, puesto que  necesita muy poca capacidad de almacenamiento.Si el cliente ligero requiere utilizar un programa 
+		o guardar un archivo, se conectará al ordenador servidor de red para poder llevarlo a cabo.</para>
+	</section>
+	<section>	
+	<para>Servidor LTSP</para>
+	<figure>
+		<title>Instalacion y configuracion del cliente de LTSP</title>
+        <mediaobject>
+			<imageobject>
+				<imagedata scale="40" fileref="../img/ltsp1.png" format="PNG"/>
+            </imageobject>
+            <textobject>
+				<phrase>Instalacion de vnc en windows server</phrase>
+            </textobject>
+            
+        </mediaobject>
+     </figure> 
+    
+
+   </section>
+     <section>
+		  <figure>
+		<title>configuracion de ip estaticas</title>
+        <mediaobject>
+			<imageobject>
+				<imagedata scale="50" fileref="../img/ltsp9.jpg" format="JPG"/>
+            </imageobject>
+            <textobject>
+				<phrase>configuracion</phrase>
+            </textobject>
+        
+        </mediaobject>
+     </figure>
+		 <figure>
+		<title>instalacion de ssh</title>
+        <mediaobject>
+			<imageobject>
+				<imagedata scale="40" fileref="../img/ltsp3.png" format="PNG"/>
+            </imageobject>
+            <textobject>
+				<phrase>instalacion de ssh</phrase>
+            </textobject>
+            
+        </mediaobject>
+     </figure>
+     <figure>
+		<title>configuracion del archivo isc-dhcp-server</title>
+        <mediaobject>
+			<imageobject>
+				<imagedata scale="40" fileref="../img/ltsp7.jpg" format="JPG"/>
+            </imageobject>
+            <textobject>
+				<phrase>configuracion del archivo isc-dhcp-server</phrase>
+            </textobject>
+           
+        </mediaobject>
+     </figure>
+     <figure>
+		<title>configuracion del archivo dhcp.conf</title>
+        <mediaobject>
+			<imageobject>
+				<imagedata scale="40" fileref="../img/ltsp8.jpg" format="JPG"/>
+            </imageobject>
+            <textobject>
+				<phrase>configuracion del archivo dhcp.conf</phrase>
+            </textobject>
+            
+        </mediaobject>
+     </figure>
+     <figure>
+		<title>creacion de usuarios</title>
+        <mediaobject>
+			<imageobject>
+				<imagedata scale="40" fileref="../img/ltsp2.png" format="PNG"/>
+            </imageobject>
+            <textobject>
+				<phrase>creacion de usuarios</phrase>
+            </textobject>
+            
+        </mediaobject>
+     </figure>
+     <figure>
+		<title>Crear la imagen del cliente LTSP</title>
+        <mediaobject>
+			<imageobject>
+				<imagedata scale="40" fileref="../img/ltsp4.jpg" format="JPG"/>
+            </imageobject>
+            <textobject>
+				<phrase>Crear la imagen del cliente LTSP</phrase>
+            </textobject>
+            
+        </mediaobject>
+     </figure>
+	</section>
+    <section>
+		<para>Cliente LTSP</para>
+		<title>Cliente LTSP</title>
+	
+
+	<figure>
+		<title>creacion de la maquina virtual</title>
+        <mediaobject>
+			<imageobject>
+				<imagedata scale="40" fileref="../img/ltsp6.jpg" format="JPG"/>
+            </imageobject>
+            <textobject>
+				<phrase>creacion de la maquina virtual</phrase>
+            </textobject>
+            
+        </mediaobject>
+     </figure> 
+     <section>
+     <title>Enlace a YouTube</title>
+     <para>http://www.youtube.com/watch?v=wP8oyrw-EF4</para>
+     </section>
+</section>
+</chapter>
+	
